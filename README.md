@@ -8,6 +8,7 @@ My name is Venkatesh, I am a Penetration Tester and a Computer Security Expert. 
 
 ## **தமிழ் மொழியில் - Web Application Penetration Testing HandsOn**
 
+![Web-hacking](https://1.bp.blogspot.com/-E0zQ_guG6IU/Xg1kc6L5opI/AAAAAAAADqg/sRhOUJJkju8eYe0Afdot1KnWGwjOjTKcwCLcBGAsYHQ/s1600/WEB%2BAPP%2BPENETRATION%2BTESTING.png)
 In this course, you will be learning about
 
 -   Web Application Penetration Testing - Overview
@@ -36,15 +37,14 @@ In this course, you will be learning about
 
 **Course Link:**
 
-**Coupon Code Link:**
-
 | Source | Links |
 | ------ | ------ |
-| Course | [https://www.udemy.com/course/web-application-penetration-testing-handson-in-tamil][PlDb] |
-| Coupon | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| Course | https://www.udemy.com/course/web-application-penetration-testing-handson-in-tamil |
+| Coupon | https://www.udemy.com/course/web-application-penetration-testing-handson-in-tamil/?couponCode=LUFFMAN |
+
 
 ## **தமிழ் மொழியில் - Complete Hands-on Ethical Hacking**
+![ethical-hacking](https://1.bp.blogspot.com/-sHjjdEgSVjs/Xg1l7er6n_I/AAAAAAAADqs/xUnk2738xGs8SOG7B6Lo8X4BLGAbAjbygCLcBGAsYHQ/s1600/Copy%2Bof%2BCopy%2Bof%2BVENKATESH.png)
 In this course, you will be learning about
 
 -   Introduction to Hacking
@@ -62,14 +62,16 @@ In this course, you will be learning about
 -   Web Application Attacks
 -   Cleaning Up and Getting Out
 
+**Course Link:**
+
 | Source | Links |
 | ------ | ------ |
-| Course | [https://www.udemy.com/course/web-application-penetration-testing-handson-in-tamil][PlDb] |
-| Coupon | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| Course | https://www.udemy.com/course/complete-hands-on-ethical-hacking/ |
+| Coupon | https://www.udemy.com/course/complete-hands-on-ethical-hacking/?couponCode=LUFFMANPROXY |
 
 ## **தமிழ் மொழியில் - Penetration Testing With Metasploit HandsOn**
 
+![ethical-hacking](https://1.bp.blogspot.com/-uNXnnF68vGU/Xg1nDQA0rII/AAAAAAAADq0/LwLqYORmBIYeEspW9gnvkZMwhfs_6TjfQCLcBGAsYHQ/s1600/Untitled%2Bdesign.png)
 In this course, you will be learning completely about Metasploit. One of the best exploitation in the market.
 
 -   Introduction to Metasploit
@@ -86,14 +88,17 @@ In this course, you will be learning completely about Metasploit. One of the bes
 -   Web application Scanning with Metasploit
 -   Anti Forensics
 
+**Course Link:**
+
 | Source | Links |
 | ------ | ------ |
-| Course | [https://www.udemy.com/course/web-application-penetration-testing-handson-in-tamil][PlDb] |
-| Coupon | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| Course | https://www.udemy.com/course/penetration-testing-with-metasploit-in-tamil-handson|
+| Coupon | https://www.udemy.com/course/penetration-testing-with-metasploit-in-tamil-handson/?couponCode=LUFFMAN |
+
 
 ## **Real World - Penetration Testing With Netcat - (Red Teaming)**
 
+![ethical-hacking](https://1.bp.blogspot.com/-wjtFGnfUJ6g/Xg1oOJQCKYI/AAAAAAAADrA/Goh8OsmQxf4VA4nzcLNJ-5ew2Bg3W4rkgCLcBGAsYHQ/s1600/Copy%2Bof%2BPenetration%2BTesting%2BWith%2BNETCAT.png)
 In this course, you will learn about the following topics
 
 -   About Netcat
@@ -116,12 +121,9 @@ In this course, you will learn about the following topics
 -   Exfiltration Attacks
 -   Remote Command Execution
 
+**Course Link:**
+
 | Source | Links |
 | ------ | ------ |
-| Course | [https://www.udemy.com/course/web-application-penetration-testing-handson-in-tamil][PlDb] |
-| Coupon | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-
-
-
-
+| Course | https://www.udemy.com/course/real-world-penetration-testing-with-netcat-red-teaming |
+| Coupon | https://www.udemy.com/course/real-world-penetration-testing-with-netcat-red-teaming/?couponCode=LUFFMAN |
